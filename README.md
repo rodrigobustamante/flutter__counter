@@ -1,4 +1,4 @@
-# flutterio_test
+# Counter
 
 A new Flutter project.
 
